@@ -1,7 +1,14 @@
-<img width="335" height="687" alt="Screenshot 2025-08-05 113022" src="https://github.com/user-attachments/assets/46848306-9dad-4ad1-8961-4d7f2fd14ca4" />**FURNITURE APP **
+**FURNITURE APP **
+
+
+
 The Furniture App is a mobile-based e-commerce application developed as part of my 6th semester academic project. It simulates a real-world online furniture shopping experience by allowing users to browse products, navigate through categories, manage a shopping cart, and authenticate through login/signup functionality.
 
 This project reflects my growing expertise in mobile app development, especially in building user-centric, responsive, and functional applications using modern development tools and design practices.
+
+
+<img width="335" height="687" alt="Screenshot 2025-08-05 113022" src="https://github.com/user-attachments/assets/46848306-9dad-4ad1-8961-4d7f2fd14ca4" />
+
 
 🎯** Project Objectives**
 Design and develop a clean and user-friendly mobile application.
