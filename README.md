@@ -13,6 +13,8 @@ Apply user authentication (sign-up/login) to create personalized experiences.
 Simulate e-commerce functionality like product browsing, categorization, and cart management.
 
 Strengthen practical knowledge in mobile development frameworks and state management.
+
+
 <img width="329" height="688" alt="Screenshot 2025-08-05 113000" src="https://github.com/user-attachments/assets/8d30976e-4fc3-457c-b4dc-1818bdb6d8f8" />
 <img width="330" height="688" alt="Screenshot 2025-08-05 113335" src="https://github.com/user-attachments/assets/4e144e0a-6359-4479-bf43-915f73f4a0e0" />
 
@@ -32,6 +34,8 @@ Upon launching the app, users land on a visually appealing homepage that present
 **Study Room**: Study tables, bookshelves, office chairs, etc.
 
 Each panel acts as a clickable section that navigates to a dedicated screen showing the products under that category.
+
+
 <img width="335" height="687" alt="Screenshot 2025-08-05 113022" src="https://github.com/user-attachments/assets/42ae6ea7-3de7-4080-ba4a-8e99a6320648" />
 
 
@@ -40,13 +44,16 @@ User authentication provides access control and personalization:
 
 **Sign Up Page:**
 New users can create an account by providing details like email and password. Form validation ensures proper inputs before submission.
+
 <img width="336" height="684" alt="Screenshot 2025-08-05 115812" src="https://github.com/user-attachments/assets/e2e11014-b779-476e-b157-2cada7eb3b9a" />
 
 **Login Page:**
 Registered users can log in to continue shopping. If credentials are incorrect, error feedback is displayed.
+
 <img width="325" height="692" alt="Screenshot 2025-08-05 122450" src="https://github.com/user-attachments/assets/e2749065-ab00-4307-b4e5-900de7bdd8fa" />
 
 These features simulate the core user management system of a real e-commerce app.
+
 
 **Created By:**
 
