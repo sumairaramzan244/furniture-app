@@ -1,77 +1,79 @@
- **FURNITURE APP**
 
+**Furniture App**
 
-
-The Furniture App is a mobile-based e-commerce application developed as part of my 6th semester academic project. It simulates a real-world online furniture shopping experience by allowing users to browse products, navigate through categories, manage a shopping cart, and authenticate through login/signup functionality.
-
-This project reflects my growing expertise in mobile app development, especially in building user-centric, responsive, and functional applications using modern development tools and design practices.
-
+A mobile-based e-commerce application developed as part of my **6th semester project** at GIFT University, Pakistan. The app simulates a real-world furniture shopping experience with category navigation, cart management, and user authentication.
 
 <img width="335" height="687" alt="Screenshot 2025-08-05 113022" src="https://github.com/user-attachments/assets/46848306-9dad-4ad1-8961-4d7f2fd14ca4" />
 
 
 **Project Objectives**
 
-Design and develop a clean and user-friendly mobile application.
+* Design and develop a clean, user-friendly mobile application.
+* Implement multiple screen navigation and dynamic UI rendering.
+* Apply user authentication (Sign-up/Login) for personalized experiences.
+* Simulate e-commerce features: product browsing, category-wise listing, and cart management.
+* Strengthen hands-on experience in mobile development frameworks and state management.
 
-Implement multiple screen navigation and dynamic UI rendering.
 
-Apply user authentication (sign-up/login) to create personalized experiences.
 
-Simulate e-commerce functionality like product browsing, categorization, and cart management.
+## 📱 **Key Features**
 
-Strengthen practical knowledge in mobile development frameworks and state management.
+### 🏠 Homepage with Category Navigation
 
+* Users are welcomed with a visually appealing homepage.
+* Furniture items are organized into clickable category panels.
+
+**Categories Include:**
+
+* **Living Room** – Sofas, coffee tables, TV units
+* **Bedroom** – Beds, wardrobes, side tables
+* **Kitchen** – Cabinets, dining tables, kitchen storage
+* **Outdoor** – Patio chairs, garden benches
+* **Study Room** – Study tables, bookshelves, office chairs
+
+➡️ Clicking on a category navigates to its respective product listing screen.
 
 <img width="329" height="688" alt="Screenshot 2025-08-05 113000" src="https://github.com/user-attachments/assets/8d30976e-4fc3-457c-b4dc-1818bdb6d8f8" />
 <img width="330" height="688" alt="Screenshot 2025-08-05 113335" src="https://github.com/user-attachments/assets/4e144e0a-6359-4479-bf43-915f73f4a0e0" />
-
-🔍 **App Features**
-
-🏠 Homepage with Category Navigation
-Upon launching the app, users land on a visually appealing homepage that presents different furniture categories in an organized panel layout. This screen acts as the gateway to explore all the furniture items.
-
-**Categories include:**
-
-**Living Room**: Sofas, coffee tables, TV units, etc.
-
-**Bedroom:** Beds, wardrobes, side tables, etc.
-
-**Kitchen:** Cabinets, dining tables, kitchen storage, etc.
-
-**Outdoor**: Patio chairs, garden benches, etc.
-
-**Study Room**: Study tables, bookshelves, office chairs, etc.
-
-Each panel acts as a clickable section that navigates to a dedicated screen showing the products under that category.
-
-
 <img width="335" height="687" alt="Screenshot 2025-08-05 113022" src="https://github.com/user-attachments/assets/42ae6ea7-3de7-4080-ba4a-8e99a6320648" />
 
 
-🔐 **User Authentication**
+### 🔐 User Authentication
 
-User authentication provides access control and personalization:
+* **Sign-Up Screen**
 
-**Sign Up Page:**
-
-New users can create an account by providing details like email and password. Form validation ensures proper inputs before submission.
-
+  * New users can register using email and password.
+  * Includes form validation to ensure proper inputs.
+ 
 <img width="336" height="684" alt="Screenshot 2025-08-05 115812" src="https://github.com/user-attachments/assets/e2e11014-b779-476e-b157-2cada7eb3b9a" />
+  
 
-**Login Page:**
+* **Login Screen**
 
-Registered users can log in to continue shopping. If credentials are incorrect, error feedback is displayed.
+  * Registered users can securely log in.
+  * Displays error feedback on invalid credentials.
 
 <img width="325" height="692" alt="Screenshot 2025-08-05 122450" src="https://github.com/user-attachments/assets/e2749065-ab00-4307-b4e5-900de7bdd8fa" />
 
-These features simulate the core user management system of a real e-commerce app.
 
 
-**Created By:**
+➡️ These features replicate essential e-commerce authentication flows.
+
+---
+
+## 🛠️ Tech Stack
+
+* React Native (Expo)
+* React Navigation
+* Custom component-based UI
+* Basic State Management (via hooks)
+
+---
+
+## 👩‍💻 Created By
 
 **Sumaira Ramzan**
-**6th Semester project - Mobile Computing Course**
-**GIFT University ,Pakistan**
+Mobile Computing – 6th Semester
+**GIFT University, Pakistan**
 
 
