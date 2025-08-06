@@ -1,4 +1,4 @@
-                                                                      **FURNITURE APP**
+ **FURNITURE APP**
 
 
 
@@ -10,7 +10,8 @@ This project reflects my growing expertise in mobile app development, especially
 <img width="335" height="687" alt="Screenshot 2025-08-05 113022" src="https://github.com/user-attachments/assets/46848306-9dad-4ad1-8961-4d7f2fd14ca4" />
 
 
-🎯** Project Objectives**
+**Project Objectives**
+
 Design and develop a clean and user-friendly mobile application.
 
 Implement multiple screen navigation and dynamic UI rendering.
@@ -26,10 +27,12 @@ Strengthen practical knowledge in mobile development frameworks and state manage
 <img width="330" height="688" alt="Screenshot 2025-08-05 113335" src="https://github.com/user-attachments/assets/4e144e0a-6359-4479-bf43-915f73f4a0e0" />
 
 🔍 **App Features**
+
 🏠 Homepage with Category Navigation
 Upon launching the app, users land on a visually appealing homepage that presents different furniture categories in an organized panel layout. This screen acts as the gateway to explore all the furniture items.
 
 **Categories include:**
+
 **Living Room**: Sofas, coffee tables, TV units, etc.
 
 **Bedroom:** Beds, wardrobes, side tables, etc.
@@ -47,14 +50,17 @@ Each panel acts as a clickable section that navigates to a dedicated screen show
 
 
 🔐 **User Authentication**
+
 User authentication provides access control and personalization:
 
 **Sign Up Page:**
+
 New users can create an account by providing details like email and password. Form validation ensures proper inputs before submission.
 
 <img width="336" height="684" alt="Screenshot 2025-08-05 115812" src="https://github.com/user-attachments/assets/e2e11014-b779-476e-b157-2cada7eb3b9a" />
 
 **Login Page:**
+
 Registered users can log in to continue shopping. If credentials are incorrect, error feedback is displayed.
 
 <img width="325" height="692" alt="Screenshot 2025-08-05 122450" src="https://github.com/user-attachments/assets/e2749065-ab00-4307-b4e5-900de7bdd8fa" />
