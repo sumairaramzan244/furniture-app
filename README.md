@@ -31,7 +31,7 @@ A mobile-based e-commerce application developed as part of my **6th semester pro
 * **Outdoor** – Patio chairs, garden benches
 * **Study Room** – Study tables, bookshelves, office chairs
 
-➡️ Clicking on a category navigates to its respective product listing screen.
+➡️ Clicking on a **category** navigates to its respective product listing screen.
 
 <img width="329" height="688" alt="Screenshot 2025-08-05 113000" src="https://github.com/user-attachments/assets/8d30976e-4fc3-457c-b4dc-1818bdb6d8f8" />
 <img width="330" height="688" alt="Screenshot 2025-08-05 113335" src="https://github.com/user-attachments/assets/4e144e0a-6359-4479-bf43-915f73f4a0e0" />
