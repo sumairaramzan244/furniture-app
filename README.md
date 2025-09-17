@@ -1,5 +1,5 @@
 
-**Furniture App**
+## Furniture App
 
 A mobile-based e-commerce application developed as part of my **6th semester project** at GIFT University, Pakistan. The app simulates a real-world furniture shopping experience with category navigation, cart management, and user authentication.
 
