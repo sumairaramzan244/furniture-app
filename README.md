@@ -6,7 +6,7 @@ A mobile-based e-commerce application developed as part of my **6th semester pro
 <img width="335" height="687" alt="Screenshot 2025-08-05 113022" src="https://github.com/user-attachments/assets/46848306-9dad-4ad1-8961-4d7f2fd14ca4" />
 
 
-**Project Objectives**
+## Project Objectives
 
 * Design and develop a clean, user-friendly mobile application.
 * Implement multiple screen navigation and dynamic UI rendering.
@@ -16,14 +16,14 @@ A mobile-based e-commerce application developed as part of my **6th semester pro
 
 
 
-## 📱 **Key Features**
+## 📱 Key Features
 
-### 🏠 Homepage with Category Navigation
+##  🏠 Homepage with Category Navigation
 
 * Users are welcomed with a visually appealing homepage.
 * Furniture items are organized into clickable category panels.
 
-**Categories Include:**
+## Categories Include:
 
 * **Living Room** – Sofas, coffee tables, TV units
 * **Bedroom** – Beds, wardrobes, side tables
@@ -47,8 +47,7 @@ A mobile-based e-commerce application developed as part of my **6th semester pro
  
 <img width="336" height="684" alt="Screenshot 2025-08-05 115812" src="https://github.com/user-attachments/assets/e2e11014-b779-476e-b157-2cada7eb3b9a" />
   
-
-* **Login Screen**
+## Login Screen
 
   * Registered users can securely log in.
   * Displays error feedback on invalid credentials.
