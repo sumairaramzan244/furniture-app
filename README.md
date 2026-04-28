@@ -73,6 +73,6 @@ A mobile-based e-commerce application developed as part of my **6th semester pro
 
 **Sumaira Ramzan** | 
 Mobile Computing – 6th Semester | 
-**GIFT University, Pakistan**
+**GIFT University, Gujranwala ,Pakistan**
 
 
