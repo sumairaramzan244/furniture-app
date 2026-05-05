@@ -15,7 +15,6 @@ A mobile-based e-commerce application developed as part of my **6th semester pro
 * Strengthen hands-on experience in mobile development frameworks and state management.
 
 
-
 ## 📱 Key Features
 
 ##  🏠 Homepage with Category Navigation
